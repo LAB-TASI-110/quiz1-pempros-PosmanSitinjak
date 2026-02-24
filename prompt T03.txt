@@ -1,0 +1,4 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. dengan bahasa c
+coba beri penjelasan nya
+coba tambahakan asrama total pakaian nya
+coba munculkan pilihan nya agar mudah dipilih dan tidak usah enter untuk memulai programnya

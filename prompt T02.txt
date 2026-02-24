@@ -1,0 +1,4 @@
+coba jelaskan konteksnya
+coba bantu saya kerjakan itu dengan menggunakan array
+jadi menurut mu itu sudah betul?
+coba buatakan sesuai logika manusia untuk mengecek dia ganjil atau genap

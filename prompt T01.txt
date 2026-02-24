@@ -1,0 +1,4 @@
+aku dapat soal seperti ini, coba berikan aku penjelasan dan cara pengerjaan nya
+untuk menjalankan nya di terminal cmd apa perintahnya?
+ubah struk yang lama menjadi struk yang baru tadi
+gabungkan dengan format diskon ini kupon biru 5% kuning 10% merah 15% Hijau 20% hitam 25%
